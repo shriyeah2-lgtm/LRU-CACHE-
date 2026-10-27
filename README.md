@@ -1,6 +1,6 @@
-<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/b3ad9712-8b95-449c-a0a8-20c1bc9a42c2" /># LRU-CACHE-
+
 C++ solution to LeetCode 146: LRU Cache using a Hash Map and Doubly Linked List, achieving O(1) average time complexity for get() and put() operations.
-# LRU Cache — LeetCode 146
+# LRU Cache 
 
 ## Overview
 
